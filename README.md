@@ -1,4 +1,4 @@
-#TonatonScrap
+# TonatonScrap
 This a python web scrapping application that reads information from html doc (website),
 In this Case http://www.tonaton.com -> arguably the biggest E-Commerce website in Ghana.
 
@@ -6,7 +6,7 @@ My Perculiar target in this program is the electronics category
 and from the run() method I can pass items I need and the price range desired. Example 
 run("Samsung Phone", 800.00). I get system notification anything there is a new update from my seach result.
 
-##Dependencies:
+## Dependencies:
 
 - bs4
 - requests
@@ -20,5 +20,5 @@ run("Samsung Phone", 800.00). I get system notification anything there is a new 
     WhatsApp: +233546742189
     Location: Accra & Cape Coast - Ghana
 
-##References:
+## References:
 Notifications: https://github.com/jithurjacob/Windows-10-Toast-Notifications 
